@@ -1,0 +1,13 @@
+h1{
+    color: rgb(0, 96, 128);
+    text-align: center;
+    margin-top: 30px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.para{
+    width: 800px;
+    margin-top: 30px;
+    border: 1px solid rgb(208, 0, 0);
+    padding: 20px;
+    margin-left: 24%;
+}
